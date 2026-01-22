@@ -5,9 +5,9 @@ project:
 website:
   page-navigation: true
   title: "Wenbin Hu"
-  site-url: https://hwb.github.io
+  site-url: https://whu-hwb.github.io
+  repo-url: https://github.com/whu-hwb/whu-hwb.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/whu-hwb/hwb.github.io
   
   page-footer:
     left: |
