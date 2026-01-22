@@ -19,7 +19,7 @@ about:
       href: mailto:hwb@whu.edu.cn
     - icon: github
       text: Github
-      href: https://github.com/whu-hwb/hwb.github.io
+      href: https://github.com/whu-hwb/
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?hl=zh-CN&user=K3l1qnoAAAAJ

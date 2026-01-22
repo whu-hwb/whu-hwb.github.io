@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://whu-hwb.github.io/Teaching.html</loc>
-    <lastmod>2026-01-22T03:32:42.349Z</lastmod>
+    <loc>https://whu-hwb.github.io/publications_by_year.html</loc>
+    <lastmod>2026-01-22T10:03:18.797Z</lastmod>
+  </url>
+  <url>
+    <loc>https://whu-hwb.github.io/index.html</loc>
+    <lastmod>2026-01-22T12:30:50.617Z</lastmod>
+  </url>
+  <url>
+    <loc>https://whu-hwb.github.io/Chinese.html</loc>
+    <lastmod>2026-01-22T12:33:48.594Z</lastmod>
   </url>
   <url>
     <loc>https://whu-hwb.github.io/publications.html</loc>
     <lastmod>2026-01-22T10:04:14.933Z</lastmod>
-  </url>
-  <url>
-    <loc>https://whu-hwb.github.io/Chinese.html</loc>
-    <lastmod>2026-01-22T08:53:30.386Z</lastmod>
-  </url>
-  <url>
-    <loc>https://whu-hwb.github.io/index.html</loc>
-    <lastmod>2026-01-22T12:24:40.638Z</lastmod>
-  </url>
-  <url>
-    <loc>https://whu-hwb.github.io/publications_by_year.html</loc>
-    <lastmod>2026-01-22T10:03:18.797Z</lastmod>
   </url>
 </urlset>
