@@ -2,7 +2,7 @@
 title: "Wenbin Hu"
 subtitle: |
   Professor \
-  Department of Computer Science \
+  School of Computer Science \
   Wuhan University \
   Wuhan, China \
   E-mail: hwb@whu.edu.cn
